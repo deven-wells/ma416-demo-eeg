@@ -1,0 +1,122 @@
+{
+ "validation|ALL|simple|60s": [
+  0.8532,
+  0.7895,
+  0.9169
+ ],
+ "validation|ALL|simple|4s": [
+  0.71,
+  0.5853,
+  0.8347
+ ],
+ "validation|ALL|motion|60s": [
+  0.8514,
+  1.0,
+  0.7029
+ ],
+ "validation|ALL|motion|4s": [
+  0.7808,
+  0.913,
+  0.6485
+ ],
+ "validation|UN_109|simple|60s": [
+  0.8182,
+  0.7,
+  0.9363
+ ],
+ "validation|UN_109|simple|4s": [
+  0.7038,
+  0.56,
+  0.8476
+ ],
+ "validation|UN_109|motion|60s": [
+  0.7293,
+  1.0,
+  0.4586
+ ],
+ "validation|UN_109|motion|4s": [
+  0.7115,
+  0.9533,
+  0.4697
+ ],
+ "validation|UN_110|simple|60s": [
+  0.8932,
+  0.8889,
+  0.8974
+ ],
+ "validation|UN_110|simple|4s": [
+  0.7163,
+  0.6107,
+  0.8218
+ ],
+ "validation|UN_110|motion|60s": [
+  0.9744,
+  1.0,
+  0.9487
+ ],
+ "validation|UN_110|motion|4s": [
+  0.8499,
+  0.8725,
+  0.8273
+ ],
+ "test|ALL|simple|60s": [
+  0.7732,
+  0.7857,
+  0.7607
+ ],
+ "test|ALL|simple|4s": [
+  0.6593,
+  0.6161,
+  0.7026
+ ],
+ "test|ALL|motion|60s": [
+  0.7848,
+  0.9286,
+  0.641
+ ],
+ "test|ALL|motion|4s": [
+  0.7059,
+  0.8393,
+  0.5725
+ ],
+ "test|UN_111|simple|60s": [
+  0.7871,
+  0.8,
+  0.7742
+ ],
+ "test|UN_111|simple|4s": [
+  0.6794,
+  0.66,
+  0.6989
+ ],
+ "test|UN_111|motion|60s": [
+  0.6919,
+  0.9,
+  0.4839
+ ],
+ "test|UN_111|motion|4s": [
+  0.6346,
+  0.7933,
+  0.476
+ ],
+ "test|UN_112|simple|60s": [
+  0.7421,
+  0.75,
+  0.7342
+ ],
+ "test|UN_112|simple|4s": [
+  0.6186,
+  0.527,
+  0.7101
+ ],
+ "test|UN_112|motion|60s": [
+  0.9747,
+  1.0,
+  0.9494
+ ],
+ "test|UN_112|motion|4s": [
+  0.8488,
+  0.9324,
+  0.7652
+ ]
+}

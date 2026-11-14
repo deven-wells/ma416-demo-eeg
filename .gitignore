@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+live/.venv/
+__pycache__/
+live/models/
+live/
