@@ -1,4 +1,4 @@
-"""EEGNet-8,2 rest vs working for the demo page (MA416 team 10).
+"""EEGNet-8,2 rest vs working for the demo page.
 
 Same people split, clips and calibration as the LaBraM demo model (labram_cut3):
   train UN_101-108, validation UN_109-110 (epoch pick), test UN_111-112.

@@ -1,4 +1,4 @@
-"""Per-minute signal snippets for the demo page (MA416 team 10). Read-only on team data.
+"""Per-minute signal snippets for the demo page. Read-only on team data.
 
 For every row of results/demo_predictions.csv (same order as export_demo_extras.py), writes:
   raw  : the minute's middle 4-s clip (clip 8 of 15) exactly as LaBraM / EEGNet receive it

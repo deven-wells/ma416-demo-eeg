@@ -1,6 +1,6 @@
-# Rest or Working? EEG demo (MA416 team 10)
+# Rest or Working? EEG demo
 
-A static web page for the CSSE/MA416 Deep Learning term project (Rose-Hulman, Fall 2026, team 10).
+A static web page for a deep learning term project.
 It follows one minute of 4-sensor Muse S EEG from raw wave to model answer, and asks whether models can tell
 **rest** (watching a relaxation video) from **working** (arithmetic, n-back, Stroop, sudoku).
 
@@ -69,7 +69,7 @@ It holds nothing from UN_113 to UN_124.
 
 ## Rebuild
 
-The inputs live on the course cluster in `/work/cssema416/202710/10`. Run everything from the team root through Slurm.
+The inputs live on the course cluster, in the project folder. Run everything from the project root through Slurm.
 
 1. `results/demo_predictions.csv` comes from `code/Experiments/export_demo_predictions.py` (team code, Umesh Sarma).
 2. `code/Experiments/demo_site/export_demo_extras.py` (copy in `cluster/`) rebuilds the same rows and adds the
@@ -84,6 +84,10 @@ The inputs live on the course cluster in `/work/cssema416/202710/10`. Run everyt
    `docs/data/demo.json` and checks the live model against the CSV.
 5. Serve `docs/` with any static server (`python -m http.server --directory docs`). GitHub Pages serves it as is.
    Bump the `?v=` number in `docs/index.html` after changing `app.js` or `style.css`.
+
+## Credits
+
+Deven Wells, Umesh Sarma, and Erik Winston. Umesh Sarma and Erik Winston helped build the models used in this demo.
 
 ## AI use
 

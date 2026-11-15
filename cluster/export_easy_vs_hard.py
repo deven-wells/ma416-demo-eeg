@@ -1,4 +1,4 @@
-"""Easy-vs-hard answers for the demo page (MA416 team 10). Read-only on team data and models.
+"""Easy-vs-hard answers for the demo page. Read-only on team data and models.
 
 For every working minute in results/demo_predictions.csv (same row order as export_demo_predictions.py),
 the chance that the minute is the HARD level of its task, from four models trained on UN_101-108:

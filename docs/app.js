@@ -1,4 +1,4 @@
-/* Rest or Working? MA416 team 10 demo. Plain JS, no dependencies. */
+/* Rest or Working? EEG demo. Plain JS, no dependencies. */
 (() => {
   "use strict";
 

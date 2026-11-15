@@ -1,4 +1,4 @@
-"""Demo-site extras (MA416 team 10). Read-only on teammates' files.
+"""Demo-site extras. Read-only on teammates' files.
 
 Rebuilds the exact rows of results/demo_predictions.csv and adds:
   * live: the simple model's per-4-s-clip calibrated features + scaler + logistic weights,
