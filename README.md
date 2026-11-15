@@ -87,7 +87,7 @@ The inputs live on the course cluster, in the project folder. Run everything fro
 
 ## Credits
 
-Deven Wells, Umesh Sarma, and Erik Winston. Umesh Sarma and Erik Winston helped build the models used in this demo.
+Deven Wells, Umesh Sarma, Erik Winston, and Aron Varga. Umesh Sarma and Erik Winston helped build the models used in this demo.
 
 ## AI use
 
